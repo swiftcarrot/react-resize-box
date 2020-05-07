@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { jsx, css } from '@emotion/core';
 import { useRef } from 'react';
-import { uid } from 'frontend-fns';
+import { uid } from '@swiftcarrot/utils';
 import ResizeBoxControl from './resize-box-control';
 import { RESIZE_DIRECTIONS } from './utils';
 

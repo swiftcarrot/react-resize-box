@@ -118,6 +118,15 @@
   resolved "https://registry.yarnpkg.com/@emotion/weak-memoize/-/weak-memoize-0.2.5.tgz#8eed982e2ee6f7f4e44c253e12962980791efd46"
   integrity sha512-6U71C2Wp7r5XtFtQzYrW5iKFT67OixrSxjI4MptCHzdSVlgabczzqLe0ZSgnub/5Kp4hSbpDB1tMytZY9pwxxA==
 
+"@swiftcarrot/utils@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@swiftcarrot/utils/-/utils-0.1.2.tgz#08d468220d7d7d40f4040b28f06d157aa6c80f71"
+  integrity sha512-4wsnz0YPEebWeUNm2pvZeZVXQ7ukY5FOReMEKpZi0hs6bj19fWQi4m+BXUw6tzt6hPtHpdCy+izI56+4/7B/xA==
+  dependencies:
+    "@babel/runtime" "^7.5.5"
+    lodash "^4.17.15"
+    qss "^2.0.3"
+
 "@types/parse-json@^4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@types/parse-json/-/parse-json-4.0.0.tgz#2f8bb441434d163b35fb8ffdccd7138927ffb8c0"
@@ -230,15 +239,6 @@ find-root@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/find-root/-/find-root-1.1.0.tgz#abcfc8ba76f708c42a97b3d685b7e9450bfb9ce4"
   integrity sha512-NKfW6bec6GfKc0SGx1e07QZY9PE99u0Bft/0rzSD5k3sO/vwkVUpDUKVm5Gpp5Ue3YfShPFTX2070tDs5kB9Ng==
-
-frontend-fns@^0.2.4:
-  version "0.2.4"
-  resolved "https://registry.yarnpkg.com/frontend-fns/-/frontend-fns-0.2.4.tgz#adf3eb29a834c5e0516b9df0fb5f207fa2d0c3ad"
-  integrity sha512-7a+OA5aqG+mMJl38/BtnUi0mylVWQO/YS5pbgLStFUS7CFg+gB21wh4/lGKvBoO9xKoCfAIGF2sZ4NK4JRBcUg==
-  dependencies:
-    "@babel/runtime" "^7.5.5"
-    lodash "^4.17.15"
-    qss "^2.0.3"
 
 has-flag@^3.0.0:
   version "3.0.0"
